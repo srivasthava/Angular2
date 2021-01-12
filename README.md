@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/ssripada/d1f3a861-09d0-41b6-9eeb-5de23e458631/0e60f8b1-c85f-4b33-ac87-e0d1ec5a031c/_apis/work/boardbadge/c0aa98dd-a653-49dd-a070-d0fc9df99cc2)](https://dev.azure.com/ssripada/d1f3a861-09d0-41b6-9eeb-5de23e458631/_boards/board/t/0e60f8b1-c85f-4b33-ac87-e0d1ec5a031c/Microsoft.RequirementCategory)
 # Angular2
